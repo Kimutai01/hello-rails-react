@@ -1,24 +1,40 @@
-# README
+![](https://img.shields.io/badge/Kiprotich-kimutai-yellow?labelColor=blue)&nbsp;
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails react application
 
-Things you may want to cover:
+> This is a web application that link a rails backend to a react frontend
 
-* Ruby version
+## Built With
 
-* System dependencies
+---
 
-* Configuration
+![](https://img.shields.io/badge/Rails-black)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Ruby-green)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Devise-Yellow)
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+## Getting a local copy
 
-* Services (job queues, cache servers, search engines, etc.)
+---
 
-* Deployment instructions
+```
+git clone https://github.com/Kimutai01/hello-rails-react
+cd hello-rails-react
+```
 
-* ...
+## Authors
+
+👤👤 **Kiprotich Kimutai**
+
+- GitHub: [@Kimutai01](https://github.com/Kimutai01)
+- Twitter: [@Kimutai_01](https://twitter.com/Kimutai_01?s=09)
+- LinkedIn: [@kiprotichkimutai](https://www.linkedin.com/m/in/kimutai-kiprotich-1b5045216)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
